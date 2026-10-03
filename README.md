@@ -5,11 +5,11 @@ Static site served by GitHub Pages from the repository root (custom domain in `C
 
 | Path | What it is |
 | --- | --- |
-| `index.html` | The whole site: hero, stakes, roster, the AI, the five games, street videos, set photos, follow links. |
-| `assets/site.css` | All styles. Colors: black `#0a0a0a`, white, logo red `#e1061b` (`#ff3b3b` for small red text on black). |
-| `assets/fonts/` | Anton (display), Archivo (body), JetBrains Mono (labels). All SIL Open Font License, self-hosted. |
+| `index.html` | The whole site, laid out like a streaming show page: billboard hero, about + facts, the five games, clips row, behind the scenes, premiere call to action. |
+| `assets/site.css` | All styles. Black, white, and the logo red `#e1061b` used sparingly (`#ff4d4d` for small red text on black). |
+| `assets/fonts/` | Anton (title treatment) and Inter (everything else). SIL Open Font License, self-hosted. |
 | `assets/img/logo-*.svg`, `mark-*.svg` | The logo redrawn as vectors (`dark` = for black backgrounds). |
-| `assets/img/` | Set photos, street-video covers from @10humansvsai, roster seat icons, `og.png` share image. |
+| `assets/img/` | Color-graded set stills (`still-*.jpg`), street-video covers from @10humansvsai (`street-*.jpg`), `og.jpg` share image. |
 | `favicon.svg`, `favicon-64.png`, `apple-touch-icon.png`, `icon-512.png` | Icons. |
 
 Held back until approved: cast names, release date, partners and investors, contact email.
