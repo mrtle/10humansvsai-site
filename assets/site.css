@@ -217,6 +217,7 @@ h3 { margin: 0; font-size: 1.15rem; font-weight: 650; letter-spacing: -0.01em; }
   .billboard-shade { background: linear-gradient(to top, #000 0%, rgba(0,0,0,.85) 30%, rgba(0,0,0,.2) 62%, rgba(0,0,0,.35) 100%); }
   .billboard-copy { padding-bottom: 40px; }
   .buttons .btn { flex: 1 1 auto; justify-content: center; }
+  .wide-only { display: none; }
   .episodes li { grid-template-columns: 3rem 1fr; padding: 22px 4px; align-items: start; }
   .ep-n { font-size: 2rem; text-align: left; }
   .clip-row { grid-auto-columns: 62%; }
